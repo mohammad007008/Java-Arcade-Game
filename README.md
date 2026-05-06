@@ -1,6 +1,6 @@
 # Java Arcade Game
 
-My first programming project a 2D arcade-style survival game originally built with Processing and later converted into Java using Swing and AWT. The player controls a futuristic drone and must collect elemental orbs while avoiding corrupted dark energy projectiles. The game includes collision detection, score tracking, health mechanics, keyboard/mouse controls, and a custom-rendered HUD.
+My first programming project a 2D arcade style survival game originally built with Processing and later converted into Java using Swing and AWT. The player controls a futuristic drone and must collect elemental orbs while avoiding corrupted dark energy projectiles. The game includes collision detection, score tracking, health mechanics, keyboard/mouse controls, and a custom-rendered HUD.
 
 ---
 
