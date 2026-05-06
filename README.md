@@ -45,15 +45,6 @@ The player controls a futuristic drone and must collect elemental orbs while avo
 
 ---
 
-## Rebuilding the Game
-
-If you modify the Java source files:
-
-1. Double-click `build.command`
-2. The script will automatically compile the project and rebuild `Game.jar`
-
----
-
 ## Project Structure
 
 ```text
@@ -90,4 +81,4 @@ Compiles the Java source files and creates the executable `.jar` file.
 
 ## Author
 
-Mohammad Rahman
+Mohammad Humaidi Rahman
